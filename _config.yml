@@ -79,4 +79,6 @@ theme: mango
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/mango-tree/mango-tree.github.io.git
+  branch: master
