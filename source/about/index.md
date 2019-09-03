@@ -5,15 +5,19 @@ title: Mingyu Kim
 ## Profile
 Undergraduate in Computer Science in [**UNIST**](http://www.unist.ac.kr)
 
-UNIST School of **Electrical & Computer Engineering**(`2013~`)
+UNIST School of [**Electrical & Computer Engineering**](http://ece.unist.ac.kr/) (`2013 ~`)
 
-UNIST Computer Security Club, **HeXA** (`2013~`)
+UNIST Computer Security Club, [**HeXA**](https://hexa-unist.github.io/about/) (`2013 ~`)
 
-[**3000Won** (삼천원)](https://3000won.com) web developer (`2017~`)
+[**3000Won** (삼천원)](https://3000won.com) - Web Developer (`2017 ~`)
 
-Web development intern in **Recobell** (`2017.05 ~ 2018.01`)
+[**Recobell**](https://www.recobell.com/) - Web development intern (`2017.05 ~ 2018.01`)
 
-Research intern in Interactive Visual Analysis and Data Exploration Research Lab(**IVADER**) (`2018.03 ~2018.06`)
+Interactive Visual Analysis and Data Exploration Research Lab([**IVADER**](http://ivader.unist.ac.kr/)) - Research intern (`2018.03 ~ 2018.06`)
+
+[**Voost**](https://www.rocketpunch.com/companies/voost) - Web Front Engineer (`2019.01 ~ 2019.05`)
+
+[**Presto Labs**](https://www.prestolabs.net/) - Web Developer (`2019.06 ~`)
 
 ## Contact
 Email: k.mingyu.95@gmail.com
